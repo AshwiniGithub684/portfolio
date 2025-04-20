@@ -435,5 +435,5 @@ footer p {
   height: 500px;
   border-radius: 50%;
   object-fit: cover;
-  border: 2px solid #ccc; /* Optional: adds a light gray border */
+  border: 2px solid #ccc; 
 }
