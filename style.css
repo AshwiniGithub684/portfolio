@@ -430,3 +430,10 @@ footer {
 footer p {
   text-align: center;
 }
+.circle-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #ccc; /* Optional: adds a light gray border */
+}
