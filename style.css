@@ -431,8 +431,8 @@ footer p {
   text-align: center;
 }
 .circle-img {
-  width: 350px;
-  height: 350px;
+  width: 500px;
+  height: 500px;
   border-radius: 50%;
   object-fit: cover;
   border: 2px solid #ccc; /* Optional: adds a light gray border */
