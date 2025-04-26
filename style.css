@@ -8,7 +8,12 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+/*font-family: "Poppins", sans-serif;*/
 }
 
 html {
@@ -144,6 +149,33 @@ a:hover {
 
 .hamburger-icon span:first-child {
   transform: none;
+}
+header {
+  background-color: #fff;
+  padding: 40px 20px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin: 0 0 10px;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin-top: 30px;
+  color: #444;
+}
+
+p, li {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #555;
+}
+
+main {
+  padding: 20px 30px;
 }
 
 /* SECTIONS */
@@ -425,11 +457,28 @@ article .icon {
 footer {
   height: 26vh;
   margin: 0 1rem;
+  text-align: center;
+  padding: 20px;
+  background-color: #fff;
+  border-top: 1px solid #ddd;
+}
+
+footer p {
+  margin: 0;
+  color: #555;
+}
+
+/*footer {
+  height: 26vh;
+  margin: 0 1rem;
 }
 
 footer p {
   text-align: center;
-}
+  padding: 20px;
+  background-color: #fff;
+  border-top: 1px solid #ddd;
+}*/
 .circle-img {
   width: 500px;
   height: 500px;
