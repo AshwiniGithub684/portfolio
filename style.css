@@ -246,7 +246,7 @@ section {
   height: 2rem;
 }
 
-button, .btn {
+/*button, .btn {
   background-color: #4a90e2;
   color: #fff;
   border: none;
@@ -258,7 +258,7 @@ button, .btn {
 
 button:hover, .btn:hover {
   background-color: #ff7f50;
-}
+}*/
 
 /* BUTTONS */
 
