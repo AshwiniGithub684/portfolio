@@ -51,13 +51,13 @@ nav {
 }
 
 a {
-  color: #4a90e2;
+  color: #333;
   text-decoration: none;
   text-decoration-color: white;
 }
 
 a:hover {
-  color: #ff7f50;
+  color: #4a90e2;
   text-decoration: underline;
   text-underline-offset: 1rem;
   text-decoration-color: rgb(181, 181, 181);
